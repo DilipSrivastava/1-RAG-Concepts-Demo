@@ -1,0 +1,6 @@
+streamlit #used for UI 
+pypdf # used for reading PDF files
+openai    #used for communicating with OpenAI API
+pinecone  # used for vector database  
+python-dotenv # used for loading environment variables from .env file
+langchain-text-splitters
